@@ -1,2 +1,2 @@
-# kingphisher
-Phishing CMS
+# king-phisher
+Malleable phishing CMS
